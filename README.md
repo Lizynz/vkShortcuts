@@ -1,5 +1,5 @@
 # vkShortcuts
-Quick action for VK (old version)
+Quick action for VK (all version)
 
 iOS tweak, only iPhone and iPod touch (tap image to watch video 👇)
 
