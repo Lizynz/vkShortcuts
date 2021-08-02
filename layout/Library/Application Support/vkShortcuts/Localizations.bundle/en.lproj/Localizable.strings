@@ -1,0 +1,11 @@
+"clips" = "Clips";
+"groups" = "Communities";
+"favorite" = "Bookmarks";
+"music" = "Music";
+"docs" = "Files";
+"liked" = "Liked";
+"podcasts" = "Podcasts";
+"classifieds" = "classifieds";
+"NO_MESSAGES" = "No unread messages";
+"%@ UNREAD_NOTIFICATION" = "%@ Unread notification";
+"%@ UNREAD_NOTIFICATIONS" = "%@ Unread notifications";

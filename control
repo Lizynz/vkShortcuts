@@ -1,0 +1,12 @@
+Package: com.lizynz.vkshortcuts
+Name: vkShortcuts
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: gsc.ipad
+Version: 9.0
+Architecture: iphoneos-arm
+Description: Quick action for VK
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkshortcuts
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/vkshortcuts.json
+Maintainer: Lizynz <lizynz@ya.ru>
+Author: Lizynz <lizynz@ya.ru>
+Section: Tweaks
