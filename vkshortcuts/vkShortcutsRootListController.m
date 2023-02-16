@@ -24,14 +24,16 @@
     waitpid(pid, &status, WEXITED);
 }
 
+- (void)github {
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://github.com/Lizynz/vkShortcuts"] options:@{} completionHandler:nil];
+}
+
+- (void)telegram {
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://t.me/Helper_iOS"] options:@{} completionHandler:nil];
+}
+
 - (void)twitter {
-     if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"tweetbot:"]]) {
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"tweetbot:///user_profile/Lizynz1"] options:@{} completionHandler:nil];
-    } else if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"twitterrific:"]]) {
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"twitterrific:///profile?screen_name=Lizynz1"] options:@{} completionHandler:nil];
-    } else if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"tweetings:"]]) {
-        [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"tweetings:///user?screen_name=Lizynz1"] options:@{} completionHandler:nil];
-    } else if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"twitter:"]]) {
+     if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"twitter:"]]) {
         [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"twitter://user?screen_name=Lizynz1"] options:@{} completionHandler:nil];
     } else {
         [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://mobile.twitter.com/Lizynz1"] options:@{} completionHandler:nil];

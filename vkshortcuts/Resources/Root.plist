@@ -26,7 +26,6 @@
                 <string>Сlassifieds</string>
                 <string>Files</string>
                 <string>Liked</string>
-                <string>Podcasts</string>
             </array>
             <key>validValues</key>
             <array>
@@ -37,7 +36,6 @@
                 <integer>6</integer>
                 <integer>7</integer>
                 <integer>9</integer>
-                <integer>11</integer>
             </array>
 	</dict>
         <dict>
@@ -62,7 +60,6 @@
                 <string>Сlassifieds</string>
                 <string>Files</string>
                 <string>Liked</string>
-                <string>Podcasts</string>
             </array>
             <key>validValues</key>
             <array>
@@ -73,7 +70,6 @@
                 <integer>6</integer>
                 <integer>7</integer>
                 <integer>9</integer>
-                <integer>11</integer>
             </array>
 	</dict>
 	<dict>
@@ -98,7 +94,6 @@
                 <string>Сlassifieds</string>
                 <string>Files</string>
                 <string>Liked</string>
-                <string>Podcasts</string>
             </array>
             <key>validValues</key>
             <array>
@@ -109,7 +104,6 @@
                 <integer>6</integer>
                 <integer>7</integer>
                 <integer>9</integer>
-                <integer>11</integer>
             </array>
 	</dict>
 	<dict>
@@ -134,7 +128,6 @@
                 <string>Сlassifieds</string>
                 <string>Files</string>
                 <string>Liked</string>
-                <string>Podcasts</string>
             </array>
             <key>validValues</key>
             <array>
@@ -145,12 +138,31 @@
                 <integer>6</integer>
                 <integer>7</integer>
                 <integer>9</integer>
-                <integer>11</integer>
             </array>
 	</dict>
         <dict>
             <key>cell</key>
             <string>PSGroupCell</string>
+        </dict>
+        <dict>
+            <key>cell</key>
+            <string>PSLinkCell</string>
+            <key>action</key>
+            <string>github</string>
+            <key>icon</key>
+            <string>github.png</string>
+            <key>label</key>
+            <string>Source code for GitHub</string>
+        </dict>
+        <dict>
+            <key>cell</key>
+            <string>PSLinkCell</string>
+            <key>action</key>
+            <string>telegram</string>
+            <key>icon</key>
+            <string>telegram.png</string>
+            <key>label</key>
+            <string>Telegram</string>
         </dict>
         <dict>
             <key>cell</key>

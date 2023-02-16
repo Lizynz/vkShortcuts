@@ -3,17 +3,16 @@ DEBUG = 0
 export TARGET = iphone:clang:14.2
 GO_EASY_ON_ME = 1
 
-PACKAGE_VERSION = 9.4
+PACKAGE_VERSION = 11.0
 
 export SYSROOT = $(THEOS)/sdks/iPhoneOS14.2.sdk
 
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = vkShortcuts
-vkShortcuts_FILES = Tweak.xm DarkFix.xm
-vkShortcuts_CFLAGS = -fobjc-arc -Wno-unguarded-availability-new
+vkShortcuts_FILES = Tweak.xm
 vkShortcuts_FRAMEWORKS = UIKit CoreGraphics Foundation
-vkShortcuts_PRIVATE_FRAMEWORKS = SpringBoardServices BackBoardServices
+vkShortcuts_PRIVATE_FRAMEWORKS = SpringBoardServices
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
