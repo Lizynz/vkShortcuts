@@ -1,7 +1,6 @@
 Package: com.lizynz.vkshortcuts.rootless
 Name: vkShortcuts
 Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: gsc.ipad
 Version: 9.0
 Architecture: iphoneos-arm
 Description: Quick action for VK

@@ -1,9 +1,11 @@
 Package: com.lizynz.vkshortcuts.rootless
 Name: vkShortcuts
-Depends: mobilesubstrate
-Version: 0.0.1
+Depends: mobilesubstrate, firmware (>= 15.0)
+Version: 9.0
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: Lizynz
-Author: Lizynz
+Description: Quick action for VK
+Depiction: https://lizynz.github.io/depictions/?p=com.lizynz.vkshortcuts
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.vkshortcuts/vkshortcuts.json
+Maintainer: Lizynz <lizynz@ya.ru>
+Author: Lizynz <lizynz@ya.ru>
 Section: Tweaks
