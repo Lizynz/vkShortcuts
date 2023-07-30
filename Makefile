@@ -3,7 +3,7 @@ DEBUG = 0
 export TARGET = iphone:clang:14.2
 GO_EASY_ON_ME = 1
 
-PACKAGE_VERSION = 11.0
+PACKAGE_VERSION = 11.1
 
 export SYSROOT = $(THEOS)/sdks/iPhoneOS14.2.sdk
 
