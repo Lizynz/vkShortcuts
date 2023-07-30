@@ -1,4 +1,4 @@
-# vkShortcuts (iOS 10.x - 16.x)
+# vkShortcuts (iOS 10.x - 17.x)
 
 #### RU
 
@@ -12,4 +12,8 @@
 
 [![Everything Is AWESOME](https://i.imgur.com/47QC5gO.png)](https://www.youtube.com/watch?v=fmFozJeVvN0 "Everything Is AWESOME")
 
-###### iOS 10.x (v.1.0.4) | iOS 12.x (v.6.1) | iOS 13.x - 14.x (v.9.4) | iOS 14.x - 16.x (v.11.1 rootful) | iOS 15.x - 17.x (v11.1 Dopamine & palera1n)
+###### iOS 10.x (v.1.0.4) | iOS 12.x (v.6.1) | iOS 13.x - 14.x (v.9.4)
+
+###### iOS 14.x - 16.x (v.11.1 rootful)
+
+###### iOS 15.x - 17.x (v11.1 Dopamine & palera1n)
