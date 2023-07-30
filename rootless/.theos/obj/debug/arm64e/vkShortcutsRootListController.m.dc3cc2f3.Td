@@ -1,0 +1,69 @@
+/Users/lizynz/Documents/GitHub/vkShortcuts/rootless/.theos/obj/debug/arm64e/vkShortcutsRootListController.m.dc3cc2f3.o: \
+  vkShortcutsRootListController.m /opt/theos/Prefix.pch \
+  /opt/theos/vendor/include/theos/BackwardsCompat.h \
+  /opt/theos/vendor/include/theos/IOSMacros.h \
+  /opt/theos/vendor/include/HBLog.h vkShortcutsRootListController.h \
+  /opt/theos/vendor/include/Preferences/module.modulemap \
+  /opt/theos/vendor/include/Preferences/Preferences.h \
+  /opt/theos/vendor/include/Preferences/NSArray+PreferencesAddition.h \
+  /opt/theos/vendor/include/Preferences/PSSpecifier.h \
+  /opt/theos/vendor/include/Preferences/PSTableCell.h \
+  /opt/theos/vendor/include/Preferences/PSBundleController.h \
+  /opt/theos/vendor/include/Preferences/PSControlTableCell.h \
+  /opt/theos/vendor/include/Preferences/PSDiscreteSlider.h \
+  /opt/theos/vendor/include/Preferences/PSEditableTableCell.h \
+  /opt/theos/vendor/include/Preferences/PSHeaderFooterView.h \
+  /opt/theos/vendor/include/Preferences/PSListController.h \
+  /opt/theos/vendor/include/Preferences/PSViewController.h \
+  /opt/theos/vendor/include/Preferences/PSListItemsController.h \
+  /opt/theos/vendor/include/Preferences/PSRootController.h \
+  /opt/theos/vendor/include/Preferences/PSSliderTableCell.h \
+  /opt/theos/vendor/include/Preferences/PSSwitchTableCell.h \
+  /opt/theos/vendor/include/Preferences/PSSystemPolicyForApp.h \
+  /opt/theos/vendor/include/Preferences/PreferencesAppController.h
+
+/opt/theos/Prefix.pch:
+
+/opt/theos/vendor/include/theos/BackwardsCompat.h:
+
+/opt/theos/vendor/include/theos/IOSMacros.h:
+
+/opt/theos/vendor/include/HBLog.h:
+
+vkShortcutsRootListController.h:
+
+/opt/theos/vendor/include/Preferences/module.modulemap:
+
+/opt/theos/vendor/include/Preferences/Preferences.h:
+
+/opt/theos/vendor/include/Preferences/NSArray+PreferencesAddition.h:
+
+/opt/theos/vendor/include/Preferences/PSSpecifier.h:
+
+/opt/theos/vendor/include/Preferences/PSTableCell.h:
+
+/opt/theos/vendor/include/Preferences/PSBundleController.h:
+
+/opt/theos/vendor/include/Preferences/PSControlTableCell.h:
+
+/opt/theos/vendor/include/Preferences/PSDiscreteSlider.h:
+
+/opt/theos/vendor/include/Preferences/PSEditableTableCell.h:
+
+/opt/theos/vendor/include/Preferences/PSHeaderFooterView.h:
+
+/opt/theos/vendor/include/Preferences/PSListController.h:
+
+/opt/theos/vendor/include/Preferences/PSViewController.h:
+
+/opt/theos/vendor/include/Preferences/PSListItemsController.h:
+
+/opt/theos/vendor/include/Preferences/PSRootController.h:
+
+/opt/theos/vendor/include/Preferences/PSSliderTableCell.h:
+
+/opt/theos/vendor/include/Preferences/PSSwitchTableCell.h:
+
+/opt/theos/vendor/include/Preferences/PSSystemPolicyForApp.h:
+
+/opt/theos/vendor/include/Preferences/PreferencesAppController.h:

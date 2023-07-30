@@ -1,6 +1,6 @@
 #import <substrate.h>
 
-#define kRWSettingsPath @"/var/mobile/Library/Preferences/com.lizynz.vkshortcuts.plist"
+#define kRWSettingsPath @"/var/jb/var/mobile/Library/Preferences/com.lizynz.vkshortcuts.plist"
 
 static const NSBundle *tweakBundle = [NSBundle bundleWithPath:@"/var/jb/Library/Application Support/vkShortcuts/Localizations.bundle"];
 #define LOCALIZED(str) [tweakBundle localizedStringForKey:str value:@"" table:nil]

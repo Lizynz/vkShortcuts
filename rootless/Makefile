@@ -1,11 +1,17 @@
-export ARCHS = arm64 arm64e
-DEBUG = 0
-export TARGET = iphone:clang:14.2
+#DEBUG = 0
+
+ROOTLESS ?= 0
+
+ifeq ($(ROOTLESS),1)
+	TARGET = iphone:clang:14.2
+	THEOS_LAYOUT_DIR_NAME = layout-rootless
+	THEOS_PACKAGE_SCHEME = rootless
+else
+	TARGET = iphone:clang:14.2
+endif
+
 GO_EASY_ON_ME = 1
-
-ROOTLESS=1
-
-PACKAGE_VERSION = 11.0
+PACKAGE_VERSION = 11.1
 
 export SYSROOT = $(THEOS)/sdks/iPhoneOS14.2.sdk
 
