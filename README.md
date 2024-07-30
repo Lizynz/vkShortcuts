@@ -1,4 +1,4 @@
-# vkShortcuts (iOS 10.x - 17.x)
+# vkShortcuts (iOS 10.x - 18.x)
 
 #### RU
 
@@ -16,4 +16,4 @@
 
 ###### iOS 14.x - 16.x (v.11.1 rootful)
 
-###### iOS 15.x - 17.x (v11.1 Dopamine & palera1n)
+###### iOS 15.x - 18.x (v11.1 Dopamine & palera1n)
